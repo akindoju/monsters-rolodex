@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/akindoju/github.io/monsters-rolodex/static/css/main.a97978f7.chunk.css",
+    "main.js": "/akindoju/github.io/monsters-rolodex/static/js/main.824034ad.chunk.js",
+    "main.js.map": "/akindoju/github.io/monsters-rolodex/static/js/main.824034ad.chunk.js.map",
+    "runtime-main.js": "/akindoju/github.io/monsters-rolodex/static/js/runtime-main.6f7bc92a.js",
+    "runtime-main.js.map": "/akindoju/github.io/monsters-rolodex/static/js/runtime-main.6f7bc92a.js.map",
+    "static/js/2.b4309f00.chunk.js": "/akindoju/github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/akindoju/github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/akindoju/github.io/monsters-rolodex/index.html",
+    "precache-manifest.2dbe360d99875c639984471f36582ed1.js": "/akindoju/github.io/monsters-rolodex/precache-manifest.2dbe360d99875c639984471f36582ed1.js",
+    "service-worker.js": "/akindoju/github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.a97978f7.chunk.css.map": "/akindoju/github.io/monsters-rolodex/static/css/main.a97978f7.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/akindoju/github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f7bc92a.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.a97978f7.chunk.css",
+    "static/js/main.824034ad.chunk.js"
+  ]
+}
